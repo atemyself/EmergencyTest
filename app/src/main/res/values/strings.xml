@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">紧急救助</string>
+    <string name="detail">请冷静地输入您的处境或需要怎样的救助，我们会将您的信息第一时间扩散出去。撑住，救援人员马上就到！</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
